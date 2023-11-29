@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Navin Morajkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin-morajkar&label=Profile%20views&color=0e75b6&style=flat" alt="navin-morajkar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/morajkarnavin" target="blank"><img src="https://img.shields.io/twitter/follow/morajkarnavin?logo=twitter&style=for-the-badge" alt="morajkarnavin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/morajkarnavin" target="blank"><img src="https://img.shields.io/twitter/follow/morajkarnavin?logo=twitter&style=for-the-badge" alt="morajkarnavin" /></a> </p> 
+-->
 
 - 🌱 I’m currently learning **Next.JS**
 - 📫 How to reach me **navinsika@gmail.com**
